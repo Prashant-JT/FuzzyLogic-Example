@@ -1,3 +1,4 @@
 # FuzzyLogic-Example
 
-To view in Jupyter NBViewer go to ![fuzzy logic example](prueba)
+ Air conditioner control system using Fuzzy Logic in Python:
+ ![system.PNG]
